@@ -2,7 +2,7 @@ Package.describe({
   name: 'carlfredrikhero:podio',
   summary: ' Podio OAuth flow ',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/carlfredrikhero/meteor-podio.git'
 });
 
 Package.onUse(function(api) {
